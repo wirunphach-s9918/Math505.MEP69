@@ -1,5 +1,5 @@
 <html lang="th" class="h-full">
- <head><script>window["__codeletBootstrap__"]=JSON.parse('{"A":"A","B":"20260831-05-891237f","C":{"Abril Fatface":"YACgEZbkUVE,0","Alfa Slab One":"YACgEYS9sJU,0","Anton":"YACgEcYqQ-A,0","Archivo":"YAHO2-t-jNE,0","Arial":"YAGyDvJ_4Ts,0","Bebas Neue":"YACgESME5ew,0","Bricolage Grotesque":"YAFyMcdwzpc,0","Canva Sans":"YAFLd8sKbwc,2","Caveat":"YALBs2ploWQ,0","Comic Sans MS":"YAHO2VMiyZo,0","Cormorant Garamond":"YAFdJhX-538,0","Courier New":"YAGzXiGs0_8,0","DM Sans":"YAD1aU3sLnI,0","DM Serif Display":"YAD1aYG82rc,0","Forum":"YACgEcnnqB4,0","Fraunces":"YAEul-FRQw4,0","Georgia":"YAGzXkO0pEM,0","Helvetica Neue":"YAFcf6CtJfI,0","Impact":"YAFcfnjI7Vk,0","Inter":"YAFdJvSyp_k,3","Iowan Old Style":"YAGNIFa8j9o,0","Jacques Francois":"YAHO2a5g66Q,0","JetBrains Mono":"YAFdJksXcAk,0","Libre Baskerville":"YACgEUFdPdA,0","Manrope":"YAHO2b2feC4,0","Merriweather":"YACgEXvHxxs,0","Montserrat":"YADLjI9qxTA,0","Nunito":"YACgEX8C5Gg,0","Oleo Script":"YACgEQQ14jI,0","Phantom Sans":"YAHO2E8Pb88,0","Playfair Display":"YACgEYmuCJE,0","Poppins":"YAFdJjbTu24,1","Press Start 2P":"YAFyGr-8pmQ,0","Quicksand":"YADWjpfPmdk,0","Raleway":"YACgEVg3xZg,0","Segoe UI":"YAHNdRD1Klw,0","Source Sans 3":"YAG4lO1Mj10,0","Spectral":"YAHO2rVUHIM,0","Times New Roman":"YAGzXW3gftg,0","Times":"YAGzXW3gftg,0","Ubuntu":"YACgERDU--Q,0","Work Sans":"YAGXhLOKv44,0","Yellowtail":"YACgEYG4kG4,0","ui-monospace":"YADlN8CFZ8Q,0","ui-sans-serif":"YACkoN-xg4g,0"}}');</script><script src="/_sdk/50d846425a1e5082.telemetry_sdk.js" integrity="sha512-Otbex+ztlVbcEGql0rXGd/3E3ee/hqAntg6DeuUEMG6pIPbXGOSvZbFZVzknAXi1tH/itQ+ijEhOTr2aWj6CXg=="></script>
+ <head><script>window["__codeletBootstrap__"]=JSON.parse('{"A":"A","B":"20260901-05-1a916a1","C":{"Abril Fatface":"YACgEZbkUVE,0","Alfa Slab One":"YACgEYS9sJU,0","Anton":"YACgEcYqQ-A,0","Archivo":"YAHO2-t-jNE,0","Arial":"YAGyDvJ_4Ts,0","Bebas Neue":"YACgESME5ew,0","Bricolage Grotesque":"YAFyMcdwzpc,0","Canva Sans":"YAFLd8sKbwc,2","Caveat":"YALBs2ploWQ,0","Comic Sans MS":"YAHO2VMiyZo,0","Cormorant Garamond":"YAFdJhX-538,0","Courier New":"YAGzXiGs0_8,0","DM Sans":"YAD1aU3sLnI,0","DM Serif Display":"YAD1aYG82rc,0","Forum":"YACgEcnnqB4,0","Fraunces":"YAEul-FRQw4,0","Georgia":"YAGzXkO0pEM,0","Helvetica Neue":"YAFcf6CtJfI,0","Impact":"YAFcfnjI7Vk,0","Inter":"YAFdJvSyp_k,3","Iowan Old Style":"YAGNIFa8j9o,0","Jacques Francois":"YAHO2a5g66Q,0","JetBrains Mono":"YAFdJksXcAk,0","Libre Baskerville":"YACgEUFdPdA,0","Manrope":"YAHO2b2feC4,0","Merriweather":"YACgEXvHxxs,0","Montserrat":"YADLjI9qxTA,0","Nunito":"YACgEX8C5Gg,0","Oleo Script":"YACgEQQ14jI,0","Phantom Sans":"YAHO2E8Pb88,0","Playfair Display":"YACgEYmuCJE,0","Poppins":"YAFdJjbTu24,1","Press Start 2P":"YAFyGr-8pmQ,0","Quicksand":"YADWjpfPmdk,0","Raleway":"YACgEVg3xZg,0","Segoe UI":"YAHNdRD1Klw,0","Source Sans 3":"YAG4lO1Mj10,0","Spectral":"YAHO2rVUHIM,0","Times New Roman":"YAGzXW3gftg,0","Times":"YAGzXW3gftg,0","Ubuntu":"YACgERDU--Q,0","Work Sans":"YAGXhLOKv44,0","Yellowtail":"YACgEYG4kG4,0","ui-monospace":"YADlN8CFZ8Q,0","ui-sans-serif":"YACkoN-xg4g,0"}}');</script><script src="/_sdk/50d846425a1e5082.telemetry_sdk.js" integrity="sha512-Otbex+ztlVbcEGql0rXGd/3E3ee/hqAntg6DeuUEMG6pIPbXGOSvZbFZVzknAXi1tH/itQ+ijEhOTr2aWj6CXg=="></script>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>ระบบประกาศคะแนนสอบ</title>
@@ -22,13 +22,9 @@
   <div id="app" class="h-full w-full"></div>
   <script>
     const PASSWORD = "505MEP69";
-    const MAX_SCORE = 15;
-    const chapterTitles = [
-      "เศษส่วน",
-      "การบวกลบจำนวนที่มากกว่า 100,000",
-      "การคูณ การหาร",
-      "การบวก ลบ คูณ หาร จำนวนนับ"
-    ];
+    const MAX_SCORE = 20;
+    const chapterMaxScores = [15, 20];
+    const chapterTitles = ["เศษส่วน", "ทศนิยม"];
     
     const defaultConfig = {
       school_name: "โรงเรียนประตูชัย",
@@ -46,32 +42,32 @@
 
     // ข้อมูลนักเรียนทั้งหมด
     const studentsData = {
-      "21018": { name: "เด็กชายศักดิ์รินท์ นิลคูหา", chapter1: 4, chapter2: "-", chapter3: "-", chapter4: "-" },
-      "21019": { name: "เด็กชายณภัทร กุฎีพันธ์", chapter1: 8, chapter2: "-", chapter3: "-", chapter4: "-" },
-      "21451": { name: "เด็กชายธนวิทย์ หมุดเมือง", chapter1: 6, chapter2: "-", chapter3: "-", chapter4: "-" },
-      "21478": { name: "เด็กชายภูริทัต เริงถิน", chapter1: 5, chapter2: "-", chapter3: "-", chapter4: "-" },
-      "21482": { name: "เด็กชายธนัชชัย ปานบุญ", chapter1: 13, chapter2: "-", chapter3: "-", chapter4: "-" },
-      "22453": { name: "เด็กชายภาคิน อินเที่ยง", chapter1: 8, chapter2: "-", chapter3: "-", chapter4: "-" },
-      "22454": { name: "เด็กชายณภัทร หมื่นขำ", chapter1: 2, chapter2: "-", chapter3: "-", chapter4: "-" },
-      "22455": { name: "เด็กชายโกณฑัญญะ ทักสูงเนิน", chapter1: 4, chapter2: "-", chapter3: "-", chapter4: "-" },
-      "22456": { name: "เด็กชายชัยวลัญช์ อร่ามโรจน์", chapter1: 11, chapter2: "-", chapter3: "-", chapter4: "-" },
-      "22459": { name: "เด็กชายกันต์ธีร์ ล้อเลิศชลิตสกุล", chapter1: 3, chapter2: "-", chapter3: "-", chapter4: "-" },
-      "22460": { name: "เด็กชายปภังกร รัตนประทีป", chapter1: 2, chapter2: "-", chapter3: "-", chapter4: "-" },
-      "23943": { name: "เด็กชายธน กระจ่างรมย์", chapter1: 3, chapter2: "-", chapter3: "-", chapter4: "-" },
-      "21008": { name: "เด็กหญิงภรณ์ชนก เจนทัน", chapter1: 4, chapter2: "-", chapter3: "-", chapter4: "-" },
-      "21027": { name: "เด็กหญิงพีระญา เกตุอ่ำ", chapter1: 3, chapter2: "-", chapter3: "-", chapter4: "-" },
-      "21029": { name: "เด็กหญิงดากานดา ดอกบัว", chapter1: 6, chapter2: "-", chapter3: "-", chapter4: "-" },
-      "21472": { name: "เด็กหญิงชมพูนุช ประเสริฐศรี", chapter1: 7, chapter2: "-", chapter3: "-", chapter4: "-" },
-      "22461": { name: "เด็กหญิงนันทวดี บุญงาม", chapter1: 6, chapter2: "-", chapter3: "-", chapter4: "-" },
-      "22462": { name: "เด็กหญิงชญานิน สุขษา", chapter1: 5, chapter2: "-", chapter3: "-", chapter4: "-" },
-      "22463": { name: "เด็กหญิงปวันรัตน์ กงฉิน", chapter1: 13, chapter2: "-", chapter3: "-", chapter4: "-" },
-      "22465": { name: "เด็กหญิงรริดา มหาคงคา", chapter1: 11, chapter2: "-", chapter3: "-", chapter4: "-" },
-      "22467": { name: "เด็กหญิงกัญณภัทร ขาวฉะอ้อน", chapter1: 6, chapter2: "-", chapter3: "-", chapter4: "-" },
-      "22468": { name: "เด็กหญิงนลพรรณ ใยบัว", chapter1: 5, chapter2: "-", chapter3: "-", chapter4: "-" },
-      "22961": { name: "เด็กหญิงอัญญ์ชิสา เลิศอภิรักษ์", chapter1: 6, chapter2: "-", chapter3: "-", chapter4: "-" },
-      "22962": { name: "เด็กหญิงอลิสา เพ็ชรหิน", chapter1: 15, chapter2: "-", chapter3: "-", chapter4: "-" },
-      "23403": { name: "เด็กหญิงบุณยาพร โคตมา", chapter1: 3, chapter2: "-", chapter3: "-", chapter4: "-" },
-      "23852": { name: "เด็กหญิงพัชราภา เปรมสุข", chapter1: 3, chapter2: "-", chapter3: "-", chapter4: "-" }
+      "21018": { name: "เด็กชายศักดิ์รินท์ นิลคูหา", chapter1: 4, chapter2: 5.5 },
+      "21019": { name: "เด็กชายณภัทร กุฎีพันธ์", chapter1: 8, chapter2: 17.5 },
+      "21451": { name: "เด็กชายธนวิทย์ หมุดเมือง", chapter1: 6, chapter2: 3 },
+      "21478": { name: "เด็กชายภูริทัต เริงถิน", chapter1: 5, chapter2: 4 },
+      "21482": { name: "เด็กชายธนัชชัย ปานบุญ", chapter1: 13, chapter2: 13 },
+      "22453": { name: "เด็กชายภาคิน อินเที่ยง", chapter1: 8, chapter2: 11.5 },
+      "22454": { name: "เด็กชายณภัทร หมื่นขำ", chapter1: 2, chapter2: 5.5 },
+      "22455": { name: "เด็กชายโกณฑัญญะ ทักสูงเนิน", chapter1: 4, chapter2: 9 },
+      "22456": { name: "เด็กชายชัยวลัญช์ อร่ามโรจน์", chapter1: 11, chapter2: 10 },
+      "22459": { name: "เด็กชายกันต์ธีร์ ล้อเลิศชลิตสกุล", chapter1: 3, chapter2: 1.5 },
+      "22460": { name: "เด็กชายปภังกร รัตนประทีป", chapter1: 2, chapter2: 4 },
+      "23943": { name: "เด็กชายธน กระจ่างรมย์", chapter1: 3, chapter2: 4.5 },
+      "21008": { name: "เด็กหญิงภรณ์ชนก เจนทัน", chapter1: 4, chapter2: 3 },
+      "21027": { name: "เด็กหญิงพีระญา เกตุอ่ำ", chapter1: 3, chapter2: 8 },
+      "21029": { name: "เด็กหญิงดากานดา ดอกบัว", chapter1: 6, chapter2: 9 },
+      "21472": { name: "เด็กหญิงชมพูนุช ประเสริฐศรี", chapter1: 7, chapter2: 8 },
+      "22461": { name: "เด็กหญิงนันทวดี บุญงาม", chapter1: 6, chapter2: 8 },
+      "22462": { name: "เด็กหญิงชญานิน สุขษา", chapter1: 5, chapter2: 1 },
+      "22463": { name: "เด็กหญิงปวันรัตน์ กงฉิน", chapter1: 13, chapter2: 14 },
+      "22465": { name: "เด็กหญิงรริดา มหาคงคา", chapter1: 11, chapter2: 15.5 },
+      "22467": { name: "เด็กหญิงกัญณภัทร ขาวฉะอ้อน", chapter1: 6, chapter2: 10 },
+      "22468": { name: "เด็กหญิงนลพรรณ ใยบัว", chapter1: 5, chapter2: 7.5 },
+      "22961": { name: "เด็กหญิงอัญญ์ชิสา เลิศอภิรักษ์", chapter1: 6, chapter2: "ขาดสอบ" },
+      "22962": { name: "เด็กหญิงอลิสา เพ็ชรหิน", chapter1: 15, chapter2: 16 },
+      "23403": { name: "เด็กหญิงบุณยาพร โคตมา", chapter1: 3, chapter2: 8 },
+      "23852": { name: "เด็กหญิงพัชราภา เปรมสุข", chapter1: 3, chapter2: 5 }
     };
 
     let currentStudentId = null;
@@ -330,8 +326,6 @@
       const studentData = studentsData[currentStudentId];
       const chapter1Score = studentData.chapter1;
       const chapter2Score = studentData.chapter2;
-      const chapter3Score = studentData.chapter3;
-      const chapter4Score = studentData.chapter4;
       const averageScore = "-";
 
       app.innerHTML = `
@@ -354,6 +348,9 @@
                 <div>
                   <div style="font-size: ${baseSize * 1.9}px; font-weight: 700; background: linear-gradient(135deg, #f97316 0%, #9333ea 50%, #a855f7 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin-bottom: 10px; font-family: ${customFont}, sans-serif;">
                     💖 คะแนนสอบเก็บคะแนน วิชาคณิตศาสตร์
+                  </div>
+                  <div style="font-size: ${baseSize * 1.15}px; font-weight: 700; color: ${textColor}; margin-bottom: 10px; font-family: ${customFont}, sans-serif;">
+                    👤 ${studentData.name}
                   </div>
                   <div style="font-size: ${baseSize * 1.05}px; font-weight: 600; color: ${textColor}; margin-bottom: 5px; font-family: ${customFont}, sans-serif;">
                     ${schoolName}
@@ -391,7 +388,7 @@
               <div style="position: absolute; top: -18px; left: 30px; font-size: 32px;">🎀</div>
               <div style="position: absolute; top: -18px; right: 30px; font-size: 32px;">🎀</div>
                   <div style="font-size: ${baseSize * 1.3}px; font-weight: 700; color: ${textColor}; margin-bottom: 24px; font-family: ${customFont}, sans-serif;">
-                📊 คะแนนสอบรายบุคคล บทที่ 1
+                📊 คะแนนสอบรายบุคคล ครบทั้ง 6 บท
               </div>
               ${true ? `
                 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 24px;">
@@ -403,7 +400,7 @@
                       ${chapter1Score}
                     </div>
                     <div style="font-size: ${baseSize * 0.8}px; color: #92400e; font-family: ${customFont}, sans-serif;">
-                      / ${MAX_SCORE}
+                      คะแนนเต็ม 15
                     </div>
                   </div>
                   <div style="flex: 1; padding: 16px; background: linear-gradient(135deg, #e9d5ff 0%, #f3e8ff 100%); border-radius: 14px; border: 2px solid #9333ea; text-align: center;">
@@ -414,19 +411,10 @@
                       ${chapter2Score}
                     </div>
                     <div style="font-size: ${baseSize * 0.8}px; color: #6b21a8; font-family: ${customFont}, sans-serif;">
-                      / ${MAX_SCORE}
+                      คะแนนเต็ม ${MAX_SCORE}
                     </div>
                   </div>
-                  ${[
-                    [`บทที่ 3<br><span style="font-size:${baseSize * 0.68}px; font-weight:400;">${chapterTitles[2]}</span>`, chapter3Score, '#dcfce7', '#16a34a', '#166534'],
-                    [`บทที่ 4<br><span style="font-size:${baseSize * 0.68}px; font-weight:400;">${chapterTitles[3]}</span>`, chapter4Score, '#dbeafe', '#2563eb', '#1e40af'],
-                  ].map(([title, score, bg, border, label]) => `
-                    <div style="flex: 1; min-width: 140px; padding: 16px; background: ${bg}; border-radius: 14px; border: 2px solid ${border}; text-align: center;">
-                      <div style="font-size: ${baseSize * 0.85}px; font-weight: 600; color: ${label}; margin-bottom: 8px; font-family: ${customFont}, sans-serif;">📚 ${title}</div>
-                      <div style="font-size: ${baseSize * 1.75}px; font-weight: 700; color: ${label}; font-family: ${customFont}, sans-serif;">${score}</div>
-                      <div style="font-size: ${baseSize * 0.8}px; color: ${label}; font-family: ${customFont}, sans-serif;">${score === 'ขาดสอบ' ? '' : '/ ' + MAX_SCORE}</div>
-                    </div>
-                  `).join('')}
+
                 </div>
 
                 <div style="background: linear-gradient(135deg, #fffef5 0%, #f5f3f0 100%); border-radius: 16px; padding: 24px; border: 2px solid rgba(168, 85, 247, 0.15); height: 360px;">
@@ -452,29 +440,45 @@
         </div>
       `;
 
-      // แสดงเฉพาะการ์ดคะแนนบทที่ 1
-      app.querySelectorAll('div[style*="#e9d5ff"], div[style*="#dcfce7"], div[style*="#dbeafe"]').forEach(card => card.remove());
+      // แสดงการ์ดคะแนนที่มีอยู่ และข้อมูลบทที่ 5–6 ในแผนภูมิด้านล่าง
+      const scoreCards = app.querySelectorAll('div[style*="border: 2px solid #f97316"], div[style*="border: 2px solid #9333ea"]');
+      scoreCards.forEach(card => { if (!card.querySelector('#scoresChart')) card.style.minWidth = '140px'; });
       document.getElementById('logoutBtn').addEventListener('click', () => {
         currentStudentId = null;
         renderLoginPage();
       });
 
       // Render one chart for all five chapters
-      renderChart([chapter1Score, chapter2Score, chapter3Score, chapter4Score], customFont, baseSize);
+      renderChart([chapter1Score, chapter2Score], customFont, baseSize);
     }
 
     function renderChart(scores, customFont, baseSize) {
       const chartContainer = document.getElementById('scoresChart');
       if (!chartContainer) return;
 
-      const labels = ['บทที่ 1'];
-      const chartTitles = [chapterTitles[0]];
-      const fields = ['chapter1'];
-      const colors = ['#f97316'];
-      scores = scores.slice(0, 1);
+      const labels = ['บทที่ 1', 'บทที่ 2'];
+      const chartTitles = chapterTitles;
+      const fields = ['chapter1', 'chapter2'];
+      const colors = ['#f97316', '#9333ea'];
       const validScores = scores.map(score => typeof score === 'number' ? score : 0);
       const total = scores.filter(score => typeof score === 'number').reduce((sum, score) => sum + score, 0);
       const average = scores.some(score => typeof score !== 'number') ? '-' : (total / scores.length).toFixed(1);
+      const rankedStudents = Object.entries(studentsData)
+        .map(([id, student]) => {
+          const studentScores = fields
+            .map(field => student[field])
+            .filter(score => typeof score === 'number');
+          return {
+            id,
+            total: studentScores.reduce((sum, score) => sum + score, 0),
+            count: studentScores.length
+          };
+        })
+        .filter(student => student.count > 0)
+        .sort((a, b) => b.total - a.total);
+      const currentRankIndex = rankedStudents.findIndex(student => student.id === currentStudentId);
+      const currentRank = currentRankIndex >= 0 ? currentRankIndex + 1 : '-';
+      const rankText = currentRank === '-' ? 'ยังไม่จัดอันดับ' : `อันดับที่ ${currentRank} ของห้อง`;
       const topStudents = fields.map(field => Object.entries(studentsData)
         .filter(([, student]) => typeof student[field] === 'number')
         .sort((a, b) => b[1][field] - a[1][field])[0]);
@@ -485,13 +489,12 @@
       chartContainer.innerHTML = `
         <div style="height:100%; display:flex; flex-direction:column; gap:12px; font-family:${customFont}, sans-serif;">
           <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:8px; color:#7c2d12; font-size:${baseSize * 0.9}px;">
-            <span>📈 คะแนนของฉัน เทียบกับคะแนนสูงสุดและต่ำสุดของห้อง</span>
-            <strong style="color:#9333ea;">ค่าเฉลี่ย ${average}</strong>
+            <span>📈 คะแนนของฉัน เทียบกับคะแนนสูงสุดของห้อง</span>
+            <strong style="color:#9333ea;">${rankText} · ค่าเฉลี่ย ${average}</strong>
           </div>
           <div style="display:flex; justify-content:center; gap:18px; flex-wrap:wrap; font-size:${baseSize * 0.76}px; color:#7c2d12;">
             <span><b style="display:inline-block; width:12px; height:12px; border-radius:3px; background:#f97316; margin-right:5px;"></b>คะแนนของฉัน</span>
             <span><b style="display:inline-block; width:12px; height:12px; border-radius:3px; background:#facc15; margin-right:5px;"></b>คะแนนสูงสุด</span>
-            <span><b style="display:inline-block; width:12px; height:12px; border-radius:3px; background:#64748b; margin-right:5px;"></b>คะแนนต่ำสุด</span>
           </div>
           <div style="flex:1; display:flex; align-items:flex-end; justify-content:space-around; gap:8px; padding:18px 4px 4px; border-bottom:2px solid #e9d5ff; background:linear-gradient(180deg, rgba(243,232,255,.35), rgba(255,254,245,.3)); border-radius:14px 14px 4px 4px;">
             ${validScores.map((score, index) => {
@@ -507,11 +510,9 @@
                 <div style="height:58%; width:100%; display:flex; align-items:flex-end; justify-content:center; gap:4px;">
                   <div title="${labels[index]} คะแนนของฉัน: ${isAbsent ? 'ขาดสอบ' : score}" style="width:22%; height:${myHeight}%; min-height:8px; background:${colors[index]}; border-radius:7px 7px 2px 2px; box-shadow:0 4px 9px ${colors[index]}55;"></div>
                   <div title="${labels[index]} คะแนนสูงสุด: ${topScore} (${topName})" style="width:22%; height:${topHeight}%; min-height:8px; background:#facc15; border:2px solid #eab308; border-radius:7px 7px 2px 2px; box-shadow:0 4px 9px rgba(234,179,8,.25);"></div>
-                  <div title="${labels[index]} คะแนนต่ำสุดของห้อง: ${lowestScore}" style="width:22%; height:${lowestHeight}%; min-height:8px; background:#64748b; border:2px solid #475569; border-radius:7px 7px 2px 2px; box-shadow:0 4px 9px rgba(71,85,105,.25);"></div>
                 </div>
                 <div style="font-size:${baseSize * 0.78}px; font-weight:700; color:#7c2d12; text-align:center;">${labels[index]}</div>
                 <div style="font-size:${baseSize * 0.62}px; color:#92400e; text-align:center; line-height:1.25; max-width:150px;">${chartTitles[index]}</div>
-                <div style="font-size:${baseSize * 0.68}px; color:#7c2d12;">${isAbsent ? 'ขาดสอบ' : score} / ${topScore} / ${lowestScore}</div>
               </div>`;
             }).join('')}
           </div>
