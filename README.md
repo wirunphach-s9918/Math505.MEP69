@@ -14,8 +14,8 @@
     }
   </style>
   <script src="https://cdn.jsdelivr.net/npm/lucide@0.263.0/dist/umd/lucide.min.js" type="text/javascript"></script>
-  <script src="https://cdn.tailwindcss.com/3.4.17" type="text/javascript"></script>
   <script src="https://cdn.jsdelivr.net/npm/lucide@0.577.0/dist/umd/lucide.min.js" type="text/javascript"></script>
+  <script src="https://cdn.tailwindcss.com/3.4.17" type="text/javascript"></script>
   <script src="/_sdk/0da7f84bd43207b9.data_sdk.js" type="text/javascript" integrity="sha512-idGAwBQRLg5Uj/GS6M9mupKjxya8dbnuORMMHhuMClWxJFWZlnL9TyVsM+GPKk/XuFWksgp7olXXcO+XRn9b+A=="></script>
   <script src="/_sdk/69aa1ae4af02a0de.element_sdk.js" type="text/javascript" integrity="sha512-UHDoQDksHyj5aG+YQMZLiIn6gmCvObGDghLoLXDf1bNHkHTIM8T8UsX2g7Ya3HsHyUg/4hdkoWHMogELwkRb6A=="></script>
  </head>
@@ -221,9 +221,6 @@
               <div style="font-size: ${baseSize * 0.85}px; color: #7c3aed; line-height: 1.8; font-family: ${customFont}, sans-serif;">
                 <div style="margin-bottom: 8px;">
                   <span style="font-weight: 600;">📌 เลขประจำตัวนักเรียน:</span> กรอกรหัสประจำตัวตามรายชื่อในประกาศ
-                </div>
-                <div style="margin-bottom: 8px;">
-                  <span style="font-weight: 600;">🔑 รหัสนักเรียน:</span> 00000 สำหรับเด็กชายณัฐภทร์ ปิ่นวาสี
                 </div>
                 <div style="margin-top: 12px; padding: 10px; background: #f3e8ff; border-radius: 8px; border-left: 3px solid #a855f7;">
                   <span style="font-weight: 600;">💡 เคล็ดลับ:</span> กรอกเลขประจำตัวนักเรียนให้ตรงกับรายชื่อ แล้วกดเข้าสู่ระบบ
